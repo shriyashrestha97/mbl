@@ -144,20 +144,20 @@ body {
     </div>
     <div class="nav-menus-wrapper">
       <ul class="nav-menu align-to-right">
-        <li><a href="#home">Home</a>
+        <li><a href="index.php">Home</a>
           
         </li>
-        <li><a href="#about">About</a>
+        <li><a href="index.php/#about">About</a>
           
         </li>
-        <li><a href="#services">Services</a>
+        <li><a href="index.php/#services">Services</a>
           
         </li>
         <li><a href="gallery.php">Gallery</a>
          
         </li>
 
-        <li><a href="#contact">Contact Us</a>
+        <li><a href="index.php/#contact">Contact Us</a>
           
         </li>
       </ul>
